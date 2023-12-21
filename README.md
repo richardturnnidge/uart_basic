@@ -13,6 +13,10 @@ Hit ENTER to exit
 In this example, I use the UART of Agon attached to a serial USB device plugged into my computer
 
 Agon        PC
+
 Tx    <->   Rx
+
 Rx    <->   Tx
+
 Gnd   <->   Gnd
+
